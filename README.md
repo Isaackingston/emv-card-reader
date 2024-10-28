@@ -15,7 +15,7 @@ Add dependency in `pubsec.yaml`,
 dependencies:
     emv_card_reader:
         git:
-            url: git://github.com/paytrek/emv-card-reader.git
+            url: https://github.com/Isaackingston/emv-card-reader.git
 ```
 
 ### Usage
